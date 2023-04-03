@@ -19,8 +19,20 @@ National Taiwan University (NTU)
 |               |                     |                  | 2020 Spring |
 |               |                     |                  |             |
 |               |                     |                  | 2019 Spring |
+|               |                     |                  |             |
+|               |                     |                  | 2017 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2017 Spring |
+|               |                     |                  |             |
+|               |                     |                  | 2016 Fall   |
 |               |                     +------------------+-------------+
 |               |                     | DLHLP            | 2020 Spring |
+|               |                     +------------------+-------------+
+|               |                     | MLDS             | 2018 Spring |
+|               |                     |                  |             |
+|               |                     |                  | 2017 Spring |
+|               |                     |                  |             |
+|               |                     |                  | 2015 Fall   |
 +---------------+---------------------+------------------+-------------+
 
 .. _Speech Lab (Old): https://speech.ee.ntu.edu.tw/~tlkagk/index.html
