@@ -1,54 +1,90 @@
-.. title:: Guzzle, PHP HTTP client
+Read the Docs Sphinx Theme
+==========================
 
-====================
-Guzzle Documentation
-====================
+This Sphinx_ theme was designed to provide a great reader experience for
+documentation users on both desktop and mobile devices. This theme is commonly
+used with projects on `Read the Docs`_ but can work with any Sphinx project.
 
-Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and
-trivial to integrate with web services.
+.. _Sphinx: http://www.sphinx-doc.org
+.. _Read the Docs: http://www.readthedocs.org
 
-- Simple interface for building query strings, POST requests, streaming large
-  uploads, streaming large downloads, using HTTP cookies, uploading JSON data,
-  etc...
-- Can send both synchronous and asynchronous requests using the same interface.
-- Uses PSR-7 interfaces for requests, responses, and streams. This allows you
-  to utilize other PSR-7 compatible libraries with Guzzle.
-- Abstracts away the underlying HTTP transport, allowing you to write
-  environment and transport agnostic code; i.e., no hard dependency on cURL,
-  PHP streams, sockets, or non-blocking event loops.
-- Middleware system allows you to augment and compose client behavior.
+Using this theme
+----------------
 
-.. code-block:: php
+:doc:`installing`
+    How to install this theme on your Sphinx project.
 
-    $client = new GuzzleHttp\Client();
-    $res = $client->request('GET', 'https://api.github.com/user', [
-        'auth' => ['user', 'pass']
-    ]);
-    echo $res->getStatusCode();
-    // "200"
-    echo $res->getHeader('content-type')[0];
-    // 'application/json; charset=utf8'
-    echo $res->getBody();
-    // {"type":"User"...'
+:doc:`configuring`
+    Theme configuration and customization options.
 
-    // Send an asynchronous request.
-    $request = new \GuzzleHttp\Psr7\Request('GET', 'http://httpbin.org');
-    $promise = $client->sendAsync($request)->then(function ($response) {
-        echo 'I completed! ' . $response->getBody();
-    });
-    $promise->wait();
+:ref:`supported-browsers`
+    Supported browser/operating system combinations.
+
+:ref:`supported-dependencies`
+    Supported project dependencies, like Python and Sphinx.
+
+Development
+-----------
+
+:doc:`contributing`
+    How to contribute changes to the theme.
+
+:doc:`Development guidelines <development>`
+    Guidelines the theme developers use for developing and testing changes.
+
+`Read the Docs contributor guide`_
+    Our contribution guidelines extend to all projects maintained by Read the
+    Docs core team.
+
+:doc:`changelog`
+    The theme development changelog.
+
+:doc:`Demo documentation <demo/structure>`
+    The theme's styleguide test environment, where new changes are tested.
 
 
-User Guide
-==========
+.. _Read the Docs contributor guide: https://docs.readthedocs.io/en/stable/contribute.html
+
+
+.. Hidden TOCs
+
+.. toctree::
+   :caption: Theme Documentation
+   :maxdepth: 2
+   :hidden:
+
+   installing
+   configuring
+   development
+   contributing
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   changelog
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Demo Documentation
+    :hidden:
+
+    demo/structure
+    demo/demo
+    demo/lists_tables
+    demo/api
 
 .. toctree::
     :maxdepth: 3
+    :numbered:
+    :caption: This is an incredibly long caption for a long menu
+    :hidden:
 
-    overview
-    quickstart
-    request-options
-    psr7
-    handlers-and-middleware
-    testing
-    faq
+    demo/long
+    
+.. toctree::
+    :maxdepth: 3
+    :caption: Breadcrumbs
+
+    demo/level1/index.rst
