@@ -54,3 +54,6 @@ National Taiwan University (NTU)
 .. _Publications: https://speech.ee.ntu.edu.tw/~hylee/publication.php
 .. _2023 Spring: https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 .. _2022 Spring: https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
+.. _2020 Spring: https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php
+.. _2018 Spring: https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.php
+.. _2022 Fall: https://googly-mingto.github.io/LA_2022_fall/2022-fall.html
