@@ -15,7 +15,7 @@ A clean customisable Sphinx documentation theme.
 :hidden:
 
 quickstart
-customisation/index
+customisation/index.rst
 reference/index
 recommendations
 ```
