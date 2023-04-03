@@ -1,47 +1,32 @@
-Welcome to Henrry's Wikisites!
-===================================
+---
+hide-toc: true
+---
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+# Furo
 
-Jupyter-sphinx is a Sphinx extension that executes embedded code in a Jupyter
-kernel, and embeds outputs of that code in the document. It has support
-for rich output such as images, Latex math and even javascript widgets, and
-it allows to enable `thebelab <https://thebelab.readthedocs.io/>`_ for live
-code execution with minimal effort.
+A clean customisable Sphinx documentation theme.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+```{include} ../README.md
+:start-after: <!-- start elevator-pitch -->
+:end-before: <!-- end elevator-pitch -->
+```
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+```{toctree}
+:hidden:
 
-.. note::
+quickstart
+customisation/index
+reference/index
+recommendations
+```
 
-   This project is under active development.
+```{toctree}
+:caption: Development
+:hidden:
 
-.. jupyter-execute::
-
-    import numpy as np
-    from matplotlib import pyplot
-    %matplotlib inline
-
-    x = np.linspace(1E-3, 2 * np.pi)
-
-    pyplot.plot(x, np.sin(x) / x)
-    pyplot.plot(x, np.cos(x))
-    pyplot.grid()
-
-Contents
---------
-
-Contents2
----------
-
-.. toctree::
-
-   usage
-   api
+contributing/index
+kitchen-sink/index
+stability
+changelog
+license
+```
