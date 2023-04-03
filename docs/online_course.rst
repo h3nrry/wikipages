@@ -45,6 +45,8 @@ National Taiwan University (NTU)
 |               |                     |                  | `2018 Fall`_    |
 |               |                     |                  |                 |
 |               |                     |                  | `2016 Spring`_  |
+|               |                     +------------------+-----------------+
+|               |                     | Circuit          | `2014 Fall`_    |
 +---------------+---------------------+------------------+-----------------+
 
 .. _Speech Lab (Old): https://speech.ee.ntu.edu.tw/~tlkagk/index.html
@@ -70,3 +72,4 @@ National Taiwan University (NTU)
 .. _2019 Fall:    https://speech.ee.ntu.edu.tw/~hylee/la/2019-fall.php
 .. _2018 Fall:    https://speech.ee.ntu.edu.tw/~hylee/la/2018-fall.php
 .. _2016 Spring:  https://speech.ee.ntu.edu.tw/~hylee/la/2016-spring.php
+.. _2014 Fall:    https://speech.ee.ntu.edu.tw/~hylee/circuit/2014-fall.php
