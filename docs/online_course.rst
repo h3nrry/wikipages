@@ -16,11 +16,11 @@ National Taiwan University (NTU)
 |               |                     |                  |             |
 |               | Youtube_            |                  | 2021 Spring |
 |               |                     |                  |             |
-|               |                     |                  | 2020 Spring |
+|               | Conferences         |                  | 2020 Spring |
 |               |                     |                  |             |
-|               |                     |                  | 2019 Spring |
+|               | Journal             |                  | 2019 Spring |
 |               |                     |                  |             |
-|               |                     |                  | 2017 Fall   |
+|               | Preprint            |                  | 2017 Fall   |
 |               |                     |                  |             |
 |               |                     |                  | 2017 Spring |
 |               |                     |                  |             |
