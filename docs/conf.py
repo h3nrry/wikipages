@@ -1,68 +1,116 @@
-import sys, os
-from sphinx.highlighting import lexers
-from pygments.lexers.web import PhpLexer
+# -*- coding: utf-8 -*-
 
+import sys
+import os
+import re
 
-lexers['php'] = PhpLexer(startinline=True, linenos=1)
-lexers['php-annotations'] = PhpLexer(startinline=True, linenos=1)
-primary_domain = 'php'
+# Prefer to use the version of the theme in this repo
+# and not the installed version of the theme.
+sys.path.insert(0, os.path.abspath('..'))
+sys.path.append(os.path.abspath('./demo/'))
 
-extensions = []
+from sphinx_rtd_theme import __version__ as theme_version
+from sphinx_rtd_theme import __version_full__ as theme_version_full
+from sphinx.locale import _
+
+project = u'Read the Docs Sphinx Theme'
+slug = re.sub(r'\W+', '-', project.lower())
+version = theme_version
+release = theme_version_full
+author = u'Dave Snider, Read the Docs, Inc. & contributors'
+copyright = author
+language = 'en'
+
+extensions = [
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.viewcode',
+    'sphinx_rtd_theme',
+]
+
 templates_path = ['_templates']
 source_suffix = '.rst'
+exclude_patterns = []
+locale_dirs = ['locale/']
+gettext_compact = False
+
 master_doc = 'index'
-project = u'Guzzle'
-copyright = u'2015, Michael Dowling'
-version = '7'
-html_title = "Guzzle Documentation"
-html_short_title = "Guzzle 7"
+suppress_warnings = ['image.nonlocal_uri']
+pygments_style = 'default'
 
-exclude_patterns = ['_build']
-html_static_path = ['_static']
+if sys.version_info < (3, 0):
+    tags.add("python2")
+else:
+    tags.add("python3")
 
-##### Guzzle sphinx theme
-
-import guzzle_sphinx_theme
-html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = 'guzzle_sphinx_theme'
-
-# Custom sidebar templates, maps document names to template names.
-html_sidebars = {
-    '**': ['logo-text.html', 'globaltoc.html', 'searchbox.html']
+intersphinx_mapping = {
+    'rtd': ('https://docs.readthedocs.io/en/stable/', None),
+    'rtd-dev': ('https://dev.readthedocs.io/en/stable/', None),
+    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 
-# Register the theme as an extension to generate a sitemap.xml
-extensions.append("guzzle_sphinx_theme")
-
-# Guzzle theme options (see theme.conf for more information)
+html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-
-    # Set the path to a special layout to include for the homepage
-    # "index_template": "homepage.html",
-
-    # Allow a separate homepage from the master_doc
-    # homepage = index
-
-    # Set the name of the project to appear in the nav menu
-    # "project_nav_name": "Guzzle",
-
-    # Set your Disqus short name to enable comments
-    # "disqus_comments_shortname": "my_disqus_comments_short_name",
-
-    # Set you GA account ID to enable tracking
-    # "google_analytics_account": "my_ga_account",
-
-    # Path to a touch icon
-    # "touch_icon": "",
-
-    # Specify a base_url used to generate sitemap.xml links. If not
-    # specified, then no sitemap will be built.
-    "base_url": "http://guzzlephp.org"
-
-    # Allow the "Table of Contents" page to be defined separately from "master_doc"
-    # tocpage = Contents
-
-    # Allow the project link to be overriden to a custom URL.
-    # projectlink = http://myproject.url
+    'logo_only': True,
+    'navigation_depth': 5,
 }
+html_context = {}
+
+if not 'READTHEDOCS' in os.environ:
+    html_static_path = ['_static/']
+    html_js_files = ['debug.js']
+
+    # Add fake versions for local QA of the menu
+    html_context['test_versions'] = list(map(
+        lambda x: str(x / 10),
+        range(1, 100)
+    ))
+
+html_logo = "demo/static/logo-wordmark-light.svg"
+html_show_sourcelink = True
+html_favicon = "demo/static/favicon.ico"
+
+htmlhelp_basename = slug
+
+
+latex_documents = [
+  ('index', '{0}.tex'.format(slug), project, author, 'manual'),
+]
+
+man_pages = [
+    ('index', slug, project, [author], 1)
+]
+
+texinfo_documents = [
+  ('index', slug, project, author, slug, project, 'Miscellaneous'),
+]
+
+
+# Extensions to theme docs
+def setup(app):
+    from sphinx.domains.python import PyField
+    from sphinx.util.docfields import Field
+
+    app.add_object_type(
+        'confval',
+        'confval',
+        objname='configuration value',
+        indextemplate='pair: %s; configuration value',
+        doc_field_types=[
+            PyField(
+                'type',
+                label=_('Type'),
+                has_arg=False,
+                names=('type',),
+                bodyrolename='class'
+            ),
+            Field(
+                'default',
+                label=_('Default'),
+                has_arg=False,
+                names=('default',),
+            ),
+        ]
+    )
