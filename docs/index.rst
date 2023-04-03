@@ -1,4 +1,4 @@
-Welcome to Henrry's Wikipages!
+Welcome to Henrry's Wikisites!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
