@@ -14,15 +14,6 @@ Using this theme
 :doc:`online_course`
     How to install this theme on your Sphinx project.
 
-:doc:`configuring`
-    Theme configuration and customization options.
-
-:ref:`supported-browsers`
-    Supported browser/operating system combinations.
-
-:ref:`supported-dependencies`
-    Supported project dependencies, like Python and Sphinx.
-
 Development
 -----------
 
@@ -53,10 +44,7 @@ Development
    :maxdepth: 2
    :hidden:
 
-   installing
-   configuring
-   development
-   contributing
+   online_course
 
 .. toctree::
    :maxdepth: 1
