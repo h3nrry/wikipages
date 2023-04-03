@@ -16,13 +16,13 @@ National Taiwan University (NTU)
 |               |                     |                  |             |
 |               | Youtube_            |                  | 2021 Spring |
 |               |                     |                  |             |
-|               | Talk                |                  | 2020 Spring |
+|               | Talks_              |                  | 2020 Spring |
 |               |                     |                  |             |
-|               | Conferences         |                  | 2019 Spring |
+|               | Publications_       |                  | 2019 Spring |
 |               |                     |                  |             |
-|               | Journals            |                  | 2017 Fall   |
+|               |                     |                  | 2017 Fall   |
 |               |                     |                  |             |
-|               | Preprints           |                  | 2017 Spring |
+|               |                     |                  | 2017 Spring |
 |               |                     |                  |             |
 |               |                     |                  | 2016 Fall   |
 |               |                     +------------------+-------------+
@@ -50,4 +50,6 @@ National Taiwan University (NTU)
 .. _Speech Lab (Old): https://speech.ee.ntu.edu.tw/~tlkagk/index.html
 .. _Speech Lab (New): https://speech.ee.ntu.edu.tw/~hylee/index.php
 .. _Youtube: https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
+.. _Talks: https://speech.ee.ntu.edu.tw/~hylee/talk.php
+.. _Publications: https://speech.ee.ntu.edu.tw/~hylee/publication.php
 
