@@ -49,7 +49,7 @@ Development
 .. Hidden TOCs
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: Online Courses
    :maxdepth: 2
    :hidden:
 
