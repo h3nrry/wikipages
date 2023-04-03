@@ -10,9 +10,9 @@ National Taiwan University (NTU)
 +---------------+------------------+----------------+
 | Prof.         | Website          | Courses        |
 +===============+==================+================+
-| Hung-yi Lee   | `Speech Lab (Old)` | Lab            |
+| Hung-yi Lee   | `Speech Lab (Old)`_ | Lab            |
 |               |                  |                |
-|               | `Speech Lab (New)` | Lab            |
+|               | `Speech Lab (New)`_ | Lab            |
 |               |                  |                |
 |               | Youtube          | Lab            |
 +---------------+------------------+----------------+
