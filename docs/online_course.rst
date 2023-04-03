@@ -17,7 +17,7 @@ National Taiwan University (NTU)
 |               | Youtube_            | Lab            |
 +---------------+---------------------+----------------+
 
-.. _Speech Lab (Old): https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
-.. _Speech Lab (New): https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
+.. _Speech Lab (Old): https://speech.ee.ntu.edu.tw/~tlkagk/index.html
+.. _Speech Lab (New): https://speech.ee.ntu.edu.tw/~hylee/index.php
 .. _Youtube: https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
 
