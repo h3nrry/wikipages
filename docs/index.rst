@@ -14,25 +14,6 @@ Using this theme
 :doc:`online_course`
     How to install this theme on your Sphinx project.
 
-Development
------------
-
-:doc:`contributing`
-    How to contribute changes to the theme.
-
-:doc:`Development guidelines <development>`
-    Guidelines the theme developers use for developing and testing changes.
-
-`Read the Docs contributor guide`_
-    Our contribution guidelines extend to all projects maintained by Read the
-    Docs core team.
-
-:doc:`changelog`
-    The theme development changelog.
-
-:doc:`Demo documentation <demo/structure>`
-    The theme's styleguide test environment, where new changes are tested.
-
 
 .. _Read the Docs contributor guide: https://docs.readthedocs.io/en/stable/contribute.html
 
@@ -46,33 +27,3 @@ Development
 
    online_course
 
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   changelog
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Demo Documentation
-    :hidden:
-
-    demo/structure
-    demo/demo
-    demo/lists_tables
-    demo/api
-
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :caption: This is an incredibly long caption for a long menu
-    :hidden:
-
-    demo/long
-    
-.. toctree::
-    :maxdepth: 3
-    :caption: Breadcrumbs
-
-    demo/level1/index.rst
