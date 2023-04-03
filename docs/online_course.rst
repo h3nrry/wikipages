@@ -33,6 +33,18 @@ National Taiwan University (NTU)
 |               |                     |                  | 2017 Spring |
 |               |                     |                  |             |
 |               |                     |                  | 2015 Fall   |
+|               |                     +------------------+-------------+
+|               |                     | Linear Algebra   | 2022 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2021 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2020 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2019 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2018 Fall   |
+|               |                     |                  |             |
+|               |                     |                  | 2016 Spring |
 +---------------+---------------------+------------------+-------------+
 
 .. _Speech Lab (Old): https://speech.ee.ntu.edu.tw/~tlkagk/index.html
