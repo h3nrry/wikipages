@@ -95,7 +95,7 @@ U. Michigan
 
 .. _JJ_Profile:                                       https://web.eecs.umich.edu/~justincj/
 .. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
-.. _Computer Vision:                                  https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/syllabus.html#prerequisites-top
+.. _Computer Vision:                                  https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
 
 National Taiwan University (NTU)
 --------------------------------
