@@ -90,10 +90,12 @@ U. Michigan
 +==================+=====================+=====================================================+
 | Justin Johnsons  | JJ_Profile_         | `Deep Learning for Computer Vision`_                |
 |                  |                     |                                                     |
+|                  |                     | `Computer Vision`_                                  |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _JJ_Profile:                                       https://web.eecs.umich.edu/~justincj/
 .. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
+.. _Computer Vision:                                  https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/syllabus.html#prerequisites-top
 
 National Taiwan University (NTU)
 --------------------------------
