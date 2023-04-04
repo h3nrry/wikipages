@@ -12,6 +12,7 @@ Massachusetts Institute of Technology (MIT)
 +================+=====================+=====================================================+
 | Arvind Mithal  | Profile1_           | `Constructive Computer Architecture`_               |
 |                |                     |                                                     |
+|                |                     | `Complex Digital System`_                           |
 +----------------+---------------------+-----------------------------------------------------+
 | Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
@@ -51,6 +52,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Constructive Computer Architecture:                http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
 .. _Computation Structures:                            https://6191.mit.edu/
 .. _Secure Hardware Design:                            http://csg.csail.mit.edu/6.S983/
+.. _Complex Digital System:                            http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html
 
 
 
