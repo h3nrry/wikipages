@@ -82,7 +82,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Advances in Computer Vision:                       http://6.869.csail.mit.edu/sp21/index.html
 
 
-U. Michigan
+Michigan
 -----------
 
 +------------------+---------------------+-----------------------------------------------------+
@@ -166,3 +166,19 @@ National Taiwan University (NTU)
 .. _2018 Fall:    https://speech.ee.ntu.edu.tw/~hylee/la/2018-fall.php
 .. _2016 Spring:  https://speech.ee.ntu.edu.tw/~hylee/la/2016-spring.php
 .. _2014 Fall:    https://speech.ee.ntu.edu.tw/~hylee/circuit/2014-fall.php
+
+
+Stanford
+--------
+
++------------------+---------------------+-----------------------------------------------------+
+| Prof.            | Website             | Courses                                             |
++==================+=====================+=====================================================+
+| Fei Fei Li       | FF_Profile_         | `Deep Learning for Computer Vision2`_               |
+|                  |                     |                                                     |
+|                  | SVL_                | `Computer Vision`_                                  |
++------------------+---------------------+-----------------------------------------------------+
+.. _FF_Profile:                                       https://profiles.stanford.edu/fei-fei-li/
+.. _SVL:                                              https://svl.stanford.edu/
+.. _Deep Learning for Computer Vision2:               http://cs231n.stanford.edu/
+
