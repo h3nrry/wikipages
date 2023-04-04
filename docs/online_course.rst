@@ -15,6 +15,8 @@ Massachusetts Institute of Technology (MIT)
 |               | CSAIL_              | `Computer Systems Architecture`_                    |
 |               |                     |                                                     |
 |               |                     | `Parallel and Heterogeneous Computer Architecture`_ |
+|               |                     |                                                     |
+|               |                     | `Constructive Computer Architecture`_               |
 +---------------+---------------------+-----------------------------------------------------+
 
 .. _Profile:                                           http://people.csail.mit.edu/emer/
@@ -22,6 +24,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
 .. _Computer Systems Architecture:                     http://csg.csail.mit.edu/6.823/index.html
 .. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
+.. _Constructive Computer Architecture:                http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
 
 
 
