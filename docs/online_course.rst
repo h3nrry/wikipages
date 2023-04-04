@@ -9,12 +9,12 @@ ETH Zurich
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| Onur Mutlu       | Profile55_          | `Digital Design & Computer Architecture`_           |
+| Onur Mutlu       | OM_Profile_         | `Digital Design & Computer Architecture`_           |
 |                  |                     |                                                     |
 |                  |                     | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
 
-.. _Profile55:                                         https://people.inf.ethz.ch/omutlu/
+.. _OM_Profile:                                        https://people.inf.ethz.ch/omutlu/
 .. _Digital Design & Computer Architecture:            https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start
 .. _Computer Architecture:                             https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule
 
@@ -88,11 +88,11 @@ U. Michigan
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| Justin Johnsons  | Profile_            | `Deep Learning for Computer Vision`_                |
+| Justin Johnsons  | JJ_Profile_         | `Deep Learning for Computer Vision`_                |
 |                  |                     |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 
-.. _Profile:                                          https://web.eecs.umich.edu/~justincj/
+.. _JJ_Profile:                                       https://web.eecs.umich.edu/~justincj/
 .. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
 
 National Taiwan University (NTU)
