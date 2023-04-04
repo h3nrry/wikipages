@@ -18,7 +18,9 @@ Massachusetts Institute of Technology (MIT)
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Joel Elmer     | Profile3_           | `Hardware Architecture for Deep Learning`_          |
+| Julian Shun    | Profile3_           | `Algorithm Engineering`_                            |
++----------------+---------------------+-----------------------------------------------------+
+| Joel Elmer     | Profile4_           | `Hardware Architecture for Deep Learning`_          |
 |                |                     |                                                     |
 |                | CSAIL_              | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
@@ -28,22 +30,23 @@ Massachusetts Institute of Technology (MIT)
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Mengjia Yan    | Profile4_           | `Computer Systems Architecture`_                    |
+| Mengjia Yan    | Profile5_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 |                |                     |                                                     |
 |                |                     | `Secure Hardware Design`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Vivien Sze     | Profile5_           | `Hardware Architecture for Deep Learning`_          |
+| Vivien Sze     | Profile6_           | `Hardware Architecture for Deep Learning`_          |
 |                |                     |                                                     |
 |                | Eyeriss_            |                                                     |
 +----------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          https://www.csail.mit.edu/person/arvind-mithal
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
-.. _Profile3:                                          http://people.csail.mit.edu/emer/
-.. _Profile4:                                          https://people.csail.mit.edu/mengjia/
-.. _Profile5:                                          https://www.csail.mit.edu/person/vivienne-sze
+.. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
+.. _Profile4:                                          http://people.csail.mit.edu/emer/
+.. _Profile5:                                          https://people.csail.mit.edu/mengjia/
+.. _Profile6:                                          https://www.csail.mit.edu/person/vivienne-sze
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
@@ -53,7 +56,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Computation Structures:                            https://6191.mit.edu/
 .. _Secure Hardware Design:                            http://csg.csail.mit.edu/6.S983/
 .. _Complex Digital System:                            http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html
-
+.. _Algorithm Engineering:                             https://people.csail.mit.edu/jshun/6506-s23/
 
 
 National Taiwan University (NTU)
