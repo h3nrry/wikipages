@@ -10,10 +10,13 @@ ETH Zurich
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
 | Onur Mutlu       | Profile_            | `Digital Design & Computer Architecture`_           |
+|                  |                     |                                                     |
+|                  |                     | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Profile:                                           https://people.inf.ethz.ch/omutlu/
 .. _Digital Design & Computer Architecture:            https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start
+.. _Computer Architecture:                             https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule
 
 
 Massachusetts Institute of Technology (MIT)
