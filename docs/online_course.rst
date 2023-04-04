@@ -7,18 +7,22 @@ This is collection of Online Courses.
 Massachusetts Institute of Technology (MIT)
 -------------------------------------------
 
-+---------------+---------------------+---------------------------------------------+
-| Prof.         | Website             | Courses                                     |
-+===============+=====================+=============================================+
-| Joel Elmer    | Profile_            | `Hardware Architecture for Deep Learning`_  |
-|               |                     |                                             |
-|               | CSAIL_              | `Computer Systems Architecture`_            |
-+---------------+---------------------+---------------------------------------------+
++---------------+---------------------+-----------------------------------------------------+
+| Prof.         | Website             | Courses                                             |
++===============+=====================+=====================================================+
+| Joel Elmer    | Profile_            | `Hardware Architecture for Deep Learning`_          |
+|               |                     |                                                     |
+|               | CSAIL_              | `Computer Systems Architecture`_                    |
+|               |                     |                                                     |
+|               |                     | `Parallel and Heterogeneous Computer Architecture`_ |
++---------------+---------------------+-----------------------------------------------------+
 
-.. _Hardware Architecture for Deep Learning:  http://csg.csail.mit.edu/6.5930/index.html
-.. _Computer Systems Architecture:  http://csg.csail.mit.edu/6.823/index.html
-.. _Profile: http://people.csail.mit.edu/emer/
-.. _CSAIL:   https://www.csail.mit.edu/
+.. _Profile:                                           http://people.csail.mit.edu/emer/
+.. _CSAIL:                                             https://www.csail.mit.edu/
+.. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
+.. _Computer Systems Architecture:                     http://csg.csail.mit.edu/6.823/index.html
+.. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
+
 
 
 National Taiwan University (NTU)
