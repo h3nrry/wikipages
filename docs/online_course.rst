@@ -9,12 +9,14 @@ Massachusetts Institute of Technology (MIT)
 
 +---------------+---------------------+------------------------------------------+
 | Prof.         | Website             | Courses                                  |
-+===============+=====================+==========================================+
-| Joel Elmer    | Profile_            | Hardware Architecture for Deep Learning  |
-|               |                     |                                          |
-|               | CSAIL_              | Computer Systems Architecture            |
-+---------------+---------------------+------------------------------------------+
++===============+=====================+=============================================+
+| Joel Elmer    | Profile_            | `Hardware Architecture for Deep Learning`_  |
+|               |                     |                                             |
+|               | CSAIL_              | `Computer Systems Architecture`_            |
++---------------+---------------------+---------------------------------------------+
 
+.. _Hardware Architecture for Deep Learning:  http://csg.csail.mit.edu/6.5930/index.html
+.. _Computer Systems Archtecture:  http://csg.csail.mit.edu/6.823/index.html
 .. _Profile: http://people.csail.mit.edu/emer/
 .. _CSAIL:   https://www.csail.mit.edu/
 
