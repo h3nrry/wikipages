@@ -10,7 +10,11 @@ Massachusetts Institute of Technology (MIT)
 +----------------+---------------------+-----------------------------------------------------+
 | Prof.          | Website             | Courses                                             |
 +================+=====================+=====================================================+
-| Joel Elmer     | Profile1_           | `Hardware Architecture for Deep Learning`_          |
+| Daniel Sanchez | Profile1_           | `Computer Systems Architecture`_                    |
+|                |                     |                                                     |
+|                |                     | `Computation Structures`_                           |
++----------------+---------------------+-----------------------------------------------------+
+| Joel Elmer     | Profile2_           | `Hardware Architecture for Deep Learning`_          |
 |                |                     |                                                     |
 |                | CSAIL_              | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
@@ -20,19 +24,21 @@ Massachusetts Institute of Technology (MIT)
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
+| Mengjia Yan    | Profile3_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
 
-.. _Profile1:                                          http://people.csail.mit.edu/emer/
+.. _Profile1:                                          http://people.csail.mit.edu/sanchez/
+.. _Profile2:                                          http://people.csail.mit.edu/emer/
+.. _Profile3:                                          https://people.csail.mit.edu/mengjia/
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
 .. _Computer Systems Architecture:                     http://csg.csail.mit.edu/6.823/index.html
 .. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
 .. _Constructive Computer Architecture:                http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
 .. _Computation Structures:                            https://6191.mit.edu/
-.. _Profile2:                                          http://people.csail.mit.edu/sanchez/
+
 
 
 National Taiwan University (NTU)
