@@ -7,46 +7,49 @@ This is collection of Online Courses.
 Massachusetts Institute of Technology (MIT)
 -------------------------------------------
 
-+----------------+---------------------+-----------------------------------------------------+
-| Prof.          | Website             | Courses                                             |
-+================+=====================+=====================================================+
-| Arvind Mithal  | Profile1_           | `Constructive Computer Architecture`_               |
-|                |                     |                                                     |
-|                |                     | `Complex Digital System`_                           |
-+----------------+---------------------+-----------------------------------------------------+
-| Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
-|                |                     |                                                     |
-|                |                     | `Computation Structures`_                           |
-+----------------+---------------------+-----------------------------------------------------+
-| Julian Shun    | Profile3_           | `Algorithm Engineering`_                            |
-+----------------+---------------------+-----------------------------------------------------+
-| Joel Elmer     | Profile4_           | `Hardware Architecture for Deep Learning`_          |
-|                |                     |                                                     |
-|                | CSAIL_              | `Computer Systems Architecture`_                    |
-|                |                     |                                                     |
-|                |                     | `Parallel and Heterogeneous Computer Architecture`_ |
-|                |                     |                                                     |
-|                |                     | `Constructive Computer Architecture`_               |
-|                |                     |                                                     |
-|                |                     | `Computation Structures`_                           |
-+----------------+---------------------+-----------------------------------------------------+
-| Mengjia Yan    | Profile5_           | `Computer Systems Architecture`_                    |
-|                |                     |                                                     |
-|                |                     | `Computation Structures`_                           |
-|                |                     |                                                     |
-|                |                     | `Secure Hardware Design`_                           |
-+----------------+---------------------+-----------------------------------------------------+
-| Vivien Sze     | Profile6_           | `Hardware Architecture for Deep Learning`_          |
-|                |                     |                                                     |
-|                | Eyeriss_            |                                                     |
-+----------------+---------------------+-----------------------------------------------------+
++------------------+---------------------+-----------------------------------------------------+
+| Prof.            | Website             | Courses                                             |
++==================+=====================+=====================================================+
+| Arvind Mithal    | Profile1_           | `Constructive Computer Architecture`_               |
+|                  |                     |                                                     |
+|                  |                     | `Complex Digital System`_                           |
++------------------+---------------------+-----------------------------------------------------+
+| Daniel Sanchez   | Profile2_           | `Computer Systems Architecture`_                    |
+|                  |                     |                                                     |
+|                  |                     | `Computation Structures`_                           |
++------------------+---------------------+-----------------------------------------------------+
+| Julian Shun      | Profile3_           | `Algorithm Engineering`_                            |
++------------------+---------------------+-----------------------------------------------------+
+| Joel Elmer       | Profile4_           | `Hardware Architecture for Deep Learning`_          |
+|                  |                     |                                                     |
+|                  | CSAIL_              | `Computer Systems Architecture`_                    |
+|                  |                     |                                                     |
+|                  |                     | `Parallel and Heterogeneous Computer Architecture`_ |
+|                  |                     |                                                     |
+|                  |                     | `Constructive Computer Architecture`_               |
+|                  |                     |                                                     |
+|                  |                     | `Computation Structures`_                           |
++------------------+---------------------+-----------------------------------------------------+
+| Mengjia Yan      | Profile5_           | `Computer Systems Architecture`_                    |
+|                  |                     |                                                     |
+|                  |                     | `Computation Structures`_                           |
+|                  |                     |                                                     |
+|                  |                     | `Secure Hardware Design`_                           |
++------------------+---------------------+-----------------------------------------------------+
+| Stefanie Jegelka | Profile6_           | `Deep Learning`_                                    |
++------------------+---------------------+-----------------------------------------------------+
+| Vivien Sze       | Profile7_           | `Hardware Architecture for Deep Learning`_          |
+|                  |                     |                                                     |
+|                  | Eyeriss_            |                                                     |
++------------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          https://www.csail.mit.edu/person/arvind-mithal
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
 .. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
 .. _Profile5:                                          https://people.csail.mit.edu/mengjia/
-.. _Profile6:                                          https://www.csail.mit.edu/person/vivienne-sze
+.. _Profile6:                                          https://www.csail.mit.edu/person/stefanie-jegelka
+.. _Profile7:                                          https://www.csail.mit.edu/person/vivienne-sze
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
@@ -57,6 +60,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Secure Hardware Design:                            http://csg.csail.mit.edu/6.S983/
 .. _Complex Digital System:                            http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html
 .. _Algorithm Engineering:                             https://people.csail.mit.edu/jshun/6506-s23/
+.. _Deep Learning:                                     https://phillipi.github.io/6.s898/
 
 
 National Taiwan University (NTU)
