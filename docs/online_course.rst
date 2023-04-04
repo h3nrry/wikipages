@@ -10,8 +10,10 @@ Massachusetts Institute of Technology (MIT)
 +---------------+---------------------+------------------+-----------------+
 | Prof.         | Website             | Courses                            |
 +===============+=====================+==================+=================+
-| Joel Elmer    | `Profile            | Machine Learning | `2023 Spring`_  |
+| Joel Elmer    | Profile_            | Machine Learning | `2023 Spring`_  |
 +---------------+---------------------+------------------+-----------------+
+
+.. _Profile: http://people.csail.mit.edu/emer/
 
 National Taiwan University (NTU)
 --------------------------------
