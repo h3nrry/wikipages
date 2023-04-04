@@ -17,6 +17,8 @@ Massachusetts Institute of Technology (MIT)
 |                |                     | `Parallel and Heterogeneous Computer Architecture`_ |
 |                |                     |                                                     |
 |                |                     | `Constructive Computer Architecture`_               |
+|                |                     |                                                     |
+|                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
 | Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
@@ -28,6 +30,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Computer Systems Architecture:                     http://csg.csail.mit.edu/6.823/index.html
 .. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
 .. _Constructive Computer Architecture:                http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
+.. _Computation Structures:                            https://6191.mit.edu/
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
 
 
