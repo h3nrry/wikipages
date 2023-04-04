@@ -42,6 +42,8 @@ Massachusetts Institute of Technology (MIT)
 |                  |                     |                                                     |
 |                  | Eyeriss_            |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
+| William Freeman  | Profile8_           | `Advances in Computer Vision`_                      |
++------------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          https://www.csail.mit.edu/person/arvind-mithal
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
@@ -50,6 +52,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Profile5:                                          https://people.csail.mit.edu/mengjia/
 .. _Profile6:                                          https://www.csail.mit.edu/person/stefanie-jegelka
 .. _Profile7:                                          https://www.csail.mit.edu/person/vivienne-sze
+.. _Profile8:                                          https://www.csail.mit.edu/person/william-freeman
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
@@ -61,6 +64,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Complex Digital System:                            http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html
 .. _Algorithm Engineering:                             https://people.csail.mit.edu/jshun/6506-s23/
 .. _Deep Learning:                                     https://phillipi.github.io/6.s898/
+.. _Advances in Computer Vision:                       http://6.869.csail.mit.edu/sp21/index.html
 
 
 National Taiwan University (NTU)
