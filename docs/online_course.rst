@@ -19,6 +19,7 @@ Massachusetts Institute of Technology (MIT)
 |                |                     | `Constructive Computer Architecture`_               |
 +----------------+---------------------+-----------------------------------------------------+
 | Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
+|                |                     |                                                     |
 +----------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          http://people.csail.mit.edu/emer/
