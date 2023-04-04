@@ -30,11 +30,17 @@ Massachusetts Institute of Technology (MIT)
 |                |                     |                                                     |
 |                |                     | `Secure Hardware Design`_                           |
 +----------------+---------------------+-----------------------------------------------------+
+| Vivien Sze     | Profile4_           | `Hardware Architecture for Deep Learning`_          |
+|                |                     |                                                     |
+|                | Eyeriss_            |                                                     |
++----------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          http://people.csail.mit.edu/sanchez/
 .. _Profile2:                                          http://people.csail.mit.edu/emer/
 .. _Profile3:                                          https://people.csail.mit.edu/mengjia/
+.. _Profile4:                                          https://www.csail.mit.edu/person/vivienne-sze
 .. _CSAIL:                                             https://www.csail.mit.edu/
+.. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
 .. _Computer Systems Architecture:                     http://csg.csail.mit.edu/6.823/index.html
 .. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
