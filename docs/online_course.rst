@@ -7,16 +7,17 @@ This is collection of Online Courses.
 Massachusetts Institute of Technology (MIT)
 -------------------------------------------
 
-+---------------+---------------------+------------------+-----------------+
-| Prof.         | Website             | Courses                            |
-+===============+=====================+==================+=================+
-| Joel Elmer    | Profile_            | Machine Learning | `2023 Spring`_  |
-|               |                     |                  |                 |
-|               | CSAIL_              | Machine Learning | `2023 Spring`_  |
-+---------------+---------------------+------------------+-----------------+
++---------------+---------------------+------------------------------------------+
+| Prof.         | Website             | Courses                                  |
++===============+=====================+==========================================+
+| Joel Elmer    | Profile_            | Hardware Architecture for Deep Learning  |
+|               |                     |                                          |
+|               | CSAIL_              | Computer Systems Architecture            |
++---------------+---------------------+------------------------------------------+
 
 .. _Profile: http://people.csail.mit.edu/emer/
 .. _CSAIL:   https://www.csail.mit.edu/
+
 
 National Taiwan University (NTU)
 --------------------------------
