@@ -7,8 +7,8 @@ This is collection of Online Courses.
 Massachusetts Institute of Technology (MIT)
 -------------------------------------------
 
-+---------------+---------------------+------------------------------------------+
-| Prof.         | Website             | Courses                                  |
++---------------+---------------------+---------------------------------------------+
+| Prof.         | Website             | Courses                                     |
 +===============+=====================+=============================================+
 | Joel Elmer    | Profile_            | `Hardware Architecture for Deep Learning`_  |
 |               |                     |                                             |
