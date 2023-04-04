@@ -10,11 +10,14 @@ Massachusetts Institute of Technology (MIT)
 +----------------+---------------------+-----------------------------------------------------+
 | Prof.          | Website             | Courses                                             |
 +================+=====================+=====================================================+
-| Daniel Sanchez | Profile1_           | `Computer Systems Architecture`_                    |
+| Arvind Mithal  | Profile1_           | `Constructive Computer Architecture`_               |
+|                |                     |                                                     |
++----------------+---------------------+-----------------------------------------------------+
+| Daniel Sanchez | Profile2_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Joel Elmer     | Profile2_           | `Hardware Architecture for Deep Learning`_          |
+| Joel Elmer     | Profile3_           | `Hardware Architecture for Deep Learning`_          |
 |                |                     |                                                     |
 |                | CSAIL_              | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
@@ -24,21 +27,22 @@ Massachusetts Institute of Technology (MIT)
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Mengjia Yan    | Profile3_           | `Computer Systems Architecture`_                    |
+| Mengjia Yan    | Profile4_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
 |                |                     |                                                     |
 |                |                     | `Secure Hardware Design`_                           |
 +----------------+---------------------+-----------------------------------------------------+
-| Vivien Sze     | Profile4_           | `Hardware Architecture for Deep Learning`_          |
+| Vivien Sze     | Profile5_           | `Hardware Architecture for Deep Learning`_          |
 |                |                     |                                                     |
 |                | Eyeriss_            |                                                     |
 +----------------+---------------------+-----------------------------------------------------+
 
-.. _Profile1:                                          http://people.csail.mit.edu/sanchez/
-.. _Profile2:                                          http://people.csail.mit.edu/emer/
-.. _Profile3:                                          https://people.csail.mit.edu/mengjia/
-.. _Profile4:                                          https://www.csail.mit.edu/person/vivienne-sze
+.. _Profile1:                                          https://www.csail.mit.edu/person/arvind-mithal
+.. _Profile2:                                          http://people.csail.mit.edu/sanchez/
+.. _Profile3:                                          http://people.csail.mit.edu/emer/
+.. _Profile4:                                          https://people.csail.mit.edu/mengjia/
+.. _Profile5:                                          https://www.csail.mit.edu/person/vivienne-sze
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
