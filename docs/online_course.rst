@@ -27,6 +27,8 @@ Massachusetts Institute of Technology (MIT)
 | Mengjia Yan    | Profile3_           | `Computer Systems Architecture`_                    |
 |                |                     |                                                     |
 |                |                     | `Computation Structures`_                           |
+|                |                     |                                                     |
+|                |                     | `Secure Hardware Design`_                           |
 +----------------+---------------------+-----------------------------------------------------+
 
 .. _Profile1:                                          http://people.csail.mit.edu/sanchez/
@@ -38,6 +40,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Parallel and Heterogeneous Computer Architecture:  http://courses.csail.mit.edu/6.888/spring13/
 .. _Constructive Computer Architecture:                http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
 .. _Computation Structures:                            https://6191.mit.edu/
+.. _Secure Hardware Design:                            http://csg.csail.mit.edu/6.S983/
 
 
 
