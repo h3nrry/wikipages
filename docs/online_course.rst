@@ -82,6 +82,19 @@ Massachusetts Institute of Technology (MIT)
 .. _Advances in Computer Vision:                       http://6.869.csail.mit.edu/sp21/index.html
 
 
+U. Michigan
+-----------
+
++------------------+---------------------+-----------------------------------------------------+
+| Prof.            | Website             | Courses                                             |
++==================+=====================+=====================================================+
+| Justin Johnsons  | Profile_            | `Deep Learning for Computer Vision`_               |
+|                  |                     |                                                     |
++------------------+---------------------+-----------------------------------------------------+
+
+.. _Profile:                                          https://web.eecs.umich.edu/~justincj/
+.. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
+
 National Taiwan University (NTU)
 --------------------------------
 
