@@ -178,7 +178,15 @@ Stanford
 |                  |                     |                                                     |
 |                  | SVL_                | `Computer Vision`_                                  |
 +------------------+---------------------+-----------------------------------------------------+
+| Serena Young     | SY_Profile_         | `Artificial Intelligence in Healthcare`_            |
+|                  |                     |                                                     |
+|                  | MARVL_              |                                                     |
++------------------+---------------------+-----------------------------------------------------+
+
 .. _FF_Profile:                                       https://profiles.stanford.edu/fei-fei-li/
+.. _SY_Profile:                                       https://ai.stanford.edu/~syyeung/
 .. _SVL:                                              https://svl.stanford.edu/
+.. _MARVL:                                            https://marvl.stanford.edu/
 .. _Deep Learning for Computer Vision2:               http://cs231n.stanford.edu/
+.. _Artificial Intelligence in Healthcare:            http://biods220.stanford.edu/
 
