@@ -16,7 +16,7 @@ Massachusetts Institute of Technology (MIT)
 +---------------+---------------------+---------------------------------------------+
 
 .. _Hardware Architecture for Deep Learning:  http://csg.csail.mit.edu/6.5930/index.html
-.. _Computer Systems Archtecture:  http://csg.csail.mit.edu/6.823/index.html
+.. _Computer Systems Architecture:  http://csg.csail.mit.edu/6.823/index.html
 .. _Profile: http://people.csail.mit.edu/emer/
 .. _CSAIL:   https://www.csail.mit.edu/
 
