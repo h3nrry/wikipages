@@ -46,7 +46,7 @@ Massachusetts Institute of Technology (MIT)
 |                   |                     |                                                     |
 |                   |                     | `Computation Structures`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
-| Mengjia Yan       | Profile5_           | `Computer Systems Architecture`_                    |
+| Mengjia Yan       | `Mengjia CSAIL`_    | `Computer Systems Architecture`_                    |
 |                   |                     |                                                     |
 |                   |                     | `Computation Structures`_                           |
 |                   |                     |                                                     |
@@ -67,7 +67,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Sanchez CSAIL:                                     http://people.csail.mit.edu/sanchez/
 .. _Shun CSAIL:                                        https://people.csail.mit.edu/jshun/
 .. _Emer CSAIL:                                        http://people.csail.mit.edu/emer/
-.. _Profile5:                                          https://people.csail.mit.edu/mengjia/
+.. _Mengjia CSAIL:                                     https://people.csail.mit.edu/mengjia/
 .. _Profile6:                                          https://www.csail.mit.edu/person/stefanie-jegelka
 .. _Profile7:                                          https://www.csail.mit.edu/person/vivienne-sze
 .. _Profile8:                                          https://www.csail.mit.edu/person/william-freeman
