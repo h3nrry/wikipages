@@ -23,46 +23,47 @@ ETH Zurich
 Massachusetts Institute of Technology (MIT)
 -------------------------------------------
 
-+------------------+---------------------+-----------------------------------------------------+
-| Prof.            | Website             | Courses                                             |
-+==================+=====================+=====================================================+
-| `Arvind Mithal`_ | CSG_                | `Constructive Computer Architecture`_               |
-|                  |                     |                                                     |
-|                  |                     | `Complex Digital System`_                           |
-+------------------+---------------------+-----------------------------------------------------+
-| Daniel Sanchez   | Profile2_           | `Computer Systems Architecture`_                    |
-|                  |                     |                                                     |
-|                  |                     | `Computation Structures`_                           |
-+------------------+---------------------+-----------------------------------------------------+
-| Julian Shun      | Profile3_           | `Algorithm Engineering`_                            |
-+------------------+---------------------+-----------------------------------------------------+
-| Joel Elmer       | Profile4_           | `Hardware Architecture for Deep Learning`_          |
-|                  |                     |                                                     |
-|                  | CSAIL_              | `Computer Systems Architecture`_                    |
-|                  |                     |                                                     |
-|                  |                     | `Parallel and Heterogeneous Computer Architecture`_ |
-|                  |                     |                                                     |
-|                  |                     | `Constructive Computer Architecture`_               |
-|                  |                     |                                                     |
-|                  |                     | `Computation Structures`_                           |
-+------------------+---------------------+-----------------------------------------------------+
-| Mengjia Yan      | Profile5_           | `Computer Systems Architecture`_                    |
-|                  |                     |                                                     |
-|                  |                     | `Computation Structures`_                           |
-|                  |                     |                                                     |
-|                  |                     | `Secure Hardware Design`_                           |
-+------------------+---------------------+-----------------------------------------------------+
-| Stefanie Jegelka | Profile6_           | `Deep Learning`_                                    |
-+------------------+---------------------+-----------------------------------------------------+
-| Vivien Sze       | Profile7_           | `Hardware Architecture for Deep Learning`_          |
-|                  |                     |                                                     |
-|                  | Eyeriss_            |                                                     |
-+------------------+---------------------+-----------------------------------------------------+
-| William Freeman  | Profile8_           | `Advances in Computer Vision`_                      |
-+------------------+---------------------+-----------------------------------------------------+
++-------------------+---------------------+-----------------------------------------------------+
+| Prof.             | Website             | Courses                                             |
++===================+=====================+=====================================================+
+| `Arvind Mithal`_  | CSG_                | `Constructive Computer Architecture`_               |
+|                   |                     |                                                     |
+|                   |                     | `Complex Digital System`_                           |
++-------------------+---------------------+-----------------------------------------------------+
+| `Daniel Sanchez`_ | Profile2_           | `Computer Systems Architecture`_                    |
+|                   |                     |                                                     |
+|                   |                     | `Computation Structures`_                           |
++-------------------+---------------------+-----------------------------------------------------+
+| Julian Shun       | Profile3_           | `Algorithm Engineering`_                            |
++-------------------+---------------------+-----------------------------------------------------+
+| Joel Elmer        | Profile4_           | `Hardware Architecture for Deep Learning`_          |
+|                   |                     |                                                     |
+|                   | CSAIL_              | `Computer Systems Architecture`_                    |
+|                   |                     |                                                     |
+|                   |                     | `Parallel and Heterogeneous Computer Architecture`_ |
+|                   |                     |                                                     |
+|                   |                     | `Constructive Computer Architecture`_               |
+|                   |                     |                                                     |
+|                   |                     | `Computation Structures`_                           |
++-------------------+---------------------+-----------------------------------------------------+
+| Mengjia Yan       | Profile5_           | `Computer Systems Architecture`_                    |
+|                   |                     |                                                     |
+|                   |                     | `Computation Structures`_                           |
+|                   |                     |                                                     |
+|                   |                     | `Secure Hardware Design`_                           |
++-------------------+---------------------+-----------------------------------------------------+
+| Stefanie Jegelka  | Profile6_           | `Deep Learning`_                                    |
++-------------------+---------------------+-----------------------------------------------------+
+| Vivien Sze        | Profile7_           | `Hardware Architecture for Deep Learning`_          |
+|                   |                     |                                                     |
+|                   | Eyeriss_            |                                                     |
++-------------------+---------------------+-----------------------------------------------------+
+| William Freeman   | Profile8_           | `Advances in Computer Vision`_                      |
++-------------------+---------------------+-----------------------------------------------------+
 
 .. _Arvind Mithal:                                     https://www.csail.mit.edu/person/arvind-mithal
 .. _CSG:                                               http://csg.csail.mit.edu/
+.. _Daniel Sanchez:                                    https://www.csail.mit.edu/person/sanchez
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
 .. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
