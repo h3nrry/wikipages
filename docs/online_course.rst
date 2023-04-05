@@ -32,7 +32,7 @@ Massachusetts Institute of Technology (MIT)
 +-------------------+---------------------+-----------------------------------------------------+
 | `Daniel Sanchez`_ | `Sanchez CSAIL`_    | `Computer Systems Architecture`_                    |
 |                   |                     |                                                     |
-|                   |                     | `Computation Structures`_                           |
+|                   | CSAIL_              | `Computation Structures`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
 | Julian Shun       | Profile3_           | `Algorithm Engineering`_                            |
 +-------------------+---------------------+-----------------------------------------------------+
