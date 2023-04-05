@@ -34,7 +34,7 @@ Massachusetts Institute of Technology (MIT)
 |                   |                     |                                                     |
 |                   | CSAIL_              | `Computation Structures`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
-| Julian Shun       | Profile3_           | `Algorithm Engineering`_                            |
+| Julian Shun       | `Shun CSAIL`_       | `Algorithm Engineering`_                            |
 +-------------------+---------------------+-----------------------------------------------------+
 | Joel Elmer        | Profile4_           | `Hardware Architecture for Deep Learning`_          |
 |                   |                     |                                                     |
@@ -65,7 +65,7 @@ Massachusetts Institute of Technology (MIT)
 .. _CSG:                                               http://csg.csail.mit.edu/
 .. _Daniel Sanchez:                                    https://www.csail.mit.edu/person/daniel-sanchez
 .. _Sanchez CSAIL:                                     http://people.csail.mit.edu/sanchez/
-.. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
+.. _Shun CSAIL:                                        https://people.csail.mit.edu/jshun/
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
 .. _Profile5:                                          https://people.csail.mit.edu/mengjia/
 .. _Profile6:                                          https://www.csail.mit.edu/person/stefanie-jegelka
