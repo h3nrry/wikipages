@@ -181,12 +181,16 @@ Stanford
 | `Fei Fei Li`_    | SVL_                | `Deep Learning for Computer Vision2`_               |
 |                  |                     |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
+| `Jiajun Wu`_     | SVL_                | `Deep Learning for Computer Vision2`_               |
+|                  |                     |                                                     |
++------------------+---------------------+-----------------------------------------------------+
 | `Serena Young`_  | MARVL_              | `Artificial Intelligence in Healthcare`_            |
 |                  |                     |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Fei Fei Li:                                       https://profiles.stanford.edu/fei-fei-li/
 .. _Serena Young:                                     https://ai.stanford.edu/~syyeung/
+.. _Jiajun Wu:                                        https://jiajunwu.com/
 .. _SVL:                                              https://svl.stanford.edu/
 .. _MARVL:                                            https://marvl.stanford.edu/
 .. _Deep Learning for Computer Vision2:               http://cs231n.stanford.edu/
