@@ -26,7 +26,7 @@ Massachusetts Institute of Technology (MIT)
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| Arvind Mithal    | Profile1_           | `Constructive Computer Architecture`_               |
+| `Arvind Mithal`_ | Profile1_           | `Constructive Computer Architecture`_               |
 |                  |                     |                                                     |
 |                  |                     | `Complex Digital System`_                           |
 +------------------+---------------------+-----------------------------------------------------+
@@ -61,7 +61,7 @@ Massachusetts Institute of Technology (MIT)
 | William Freeman  | Profile8_           | `Advances in Computer Vision`_                      |
 +------------------+---------------------+-----------------------------------------------------+
 
-.. _Profile1:                                          https://www.csail.mit.edu/person/arvind-mithal
+.. _Arvind Mithal:                                     https://www.csail.mit.edu/person/arvind-mithal
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
 .. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
