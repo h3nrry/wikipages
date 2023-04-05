@@ -30,7 +30,7 @@ Massachusetts Institute of Technology (MIT)
 |                   |                     |                                                     |
 |                   |                     | `Complex Digital System`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
-| `Daniel Sanchez`_ | Profile2_           | `Computer Systems Architecture`_                    |
+| `Daniel Sanchez`_ | CSAIL_              | `Computer Systems Architecture`_                    |
 |                   |                     |                                                     |
 |                   |                     | `Computation Structures`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
@@ -64,7 +64,7 @@ Massachusetts Institute of Technology (MIT)
 .. _Arvind Mithal:                                     https://www.csail.mit.edu/person/arvind-mithal
 .. _CSG:                                               http://csg.csail.mit.edu/
 .. _Daniel Sanchez:                                    https://www.csail.mit.edu/person/daniel-sanchez
-.. _Profile2:                                          http://people.csail.mit.edu/sanchez/
+.. _CSAIL:                                             http://people.csail.mit.edu/sanchez/
 .. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
 .. _Profile5:                                          https://people.csail.mit.edu/mengjia/
