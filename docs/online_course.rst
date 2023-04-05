@@ -52,13 +52,13 @@ Massachusetts Institute of Technology (MIT)
 |                   |                     |                                                     |
 |                   |                     | `Secure Hardware Design`_                           |
 +-------------------+---------------------+-----------------------------------------------------+
-| Stefanie Jegelka  | Profile6_           | `Deep Learning`_                                    |
+| Stefanie Jegelka  | `Stefanie CSAIL`_   | `Deep Learning`_                                    |
 +-------------------+---------------------+-----------------------------------------------------+
-| Vivien Sze        | Profile7_           | `Hardware Architecture for Deep Learning`_          |
+| Vivien Sze        | `Vivien CSAIL`_     | `Hardware Architecture for Deep Learning`_          |
 |                   |                     |                                                     |
 |                   | Eyeriss_            |                                                     |
 +-------------------+---------------------+-----------------------------------------------------+
-| William Freeman   | Profile8_           | `Advances in Computer Vision`_                      |
+| William Freeman   | `William CSAIL`_    | `Advances in Computer Vision`_                      |
 +-------------------+---------------------+-----------------------------------------------------+
 
 .. _Arvind Mithal:                                     https://www.csail.mit.edu/person/arvind-mithal
@@ -68,9 +68,9 @@ Massachusetts Institute of Technology (MIT)
 .. _Shun CSAIL:                                        https://people.csail.mit.edu/jshun/
 .. _Emer CSAIL:                                        http://people.csail.mit.edu/emer/
 .. _Mengjia CSAIL:                                     https://people.csail.mit.edu/mengjia/
-.. _Profile6:                                          https://www.csail.mit.edu/person/stefanie-jegelka
-.. _Profile7:                                          https://www.csail.mit.edu/person/vivienne-sze
-.. _Profile8:                                          https://www.csail.mit.edu/person/william-freeman
+.. _Stefanie CSAIL:                                    https://www.csail.mit.edu/person/stefanie-jegelka
+.. _Vivien CSAIL:                                      https://www.csail.mit.edu/person/vivienne-sze
+.. _William CSAIL:                                     https://www.csail.mit.edu/person/william-freeman
 .. _CSAIL:                                             https://www.csail.mit.edu/
 .. _Eyeriss:                                           https://eyeriss.mit.edu/
 .. _Hardware Architecture for Deep Learning:           http://csg.csail.mit.edu/6.5930/index.html
