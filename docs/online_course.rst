@@ -15,7 +15,7 @@ ETH Zurich
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Onur Mutlu:                                        https://people.inf.ethz.ch/omutlu/
-.. _SAFARI:                                            https://people.inf.ethz.ch/omutlu/
+.. _SAFARI:                                            https://safari.ethz.ch/
 .. _Digital Design & Computer Architecture:            https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start
 .. _Computer Architecture:                             https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule
 
