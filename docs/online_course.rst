@@ -176,7 +176,7 @@ Stanford
 +==================+=====================+=====================================================+
 | Fei Fei Li       | FF_Profile_         | `Deep Learning for Computer Vision2`_               |
 |                  |                     |                                                     |
-|                  | SVL_                | `Computer Vision`_                                  |
+|                  | SVL_                |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 | Serena Young     | SY_Profile_         | `Artificial Intelligence in Healthcare`_            |
 |                  |                     |                                                     |
