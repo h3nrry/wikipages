@@ -178,15 +178,16 @@ Stanford
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| `Chris Manning`_ | SVL_                | `Natural Language Processing with Deep Learning`_   |
+| `Chris Manning`_ | SNLP_               | `Natural Language Processing with Deep Learning`_   |
 |                  |                     |                                                     |
+|                  | SAI_                |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 | `Fei Fei Li`_    | SVL_                | `Deep Learning for Computer Vision2`_               |
 |                  |                     |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 | `Jiajun Wu`_     | SVL_                | `Deep Learning for Computer Vision2`_               |
 |                  |                     |                                                     |
-|                  | SAIL_               |                                                     |
+|                  | SAI_                |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 | `Serena Young`_  | MARVL_              | `Artificial Intelligence in Healthcare`_            |
 |                  |                     |                                                     |
@@ -196,9 +197,10 @@ Stanford
 .. _Fei Fei Li:                                       https://profiles.stanford.edu/fei-fei-li/
 .. _Serena Young:                                     https://ai.stanford.edu/~syyeung/
 .. _Jiajun Wu:                                        https://jiajunwu.com/
+.. _SNLP:                                             https://nlp.stanford.edu/
+.. _SAI:                                              https://ai.stanford.edu/
 .. _SVL:                                              https://svl.stanford.edu/
 .. _MARVL:                                            https://marvl.stanford.edu/
-.. _SAIL:                                             https://ai.stanford.edu/
 .. _Natural Language Processing with Deep Learning:   https://web.stanford.edu/class/cs224n/index.html
 .. _Deep Learning for Computer Vision2:               http://cs231n.stanford.edu/
 .. _Artificial Intelligence in Healthcare:            http://biods220.stanford.edu/
