@@ -88,15 +88,15 @@ Massachusetts Institute of Technology (MIT)
 Michigan
 -----------
 
-+------------------+---------------------+-----------------------------------------------------+
-| Prof.            | Website             | Courses                                             |
-+==================+=====================+=====================================================+
-| Justin Johnsons  | JJ_Profile_         | `Deep Learning for Computer Vision`_                |
-|                  |                     |                                                     |
-|                  |                     | `Computer Vision`_                                  |
-+------------------+---------------------+-----------------------------------------------------+
++---------------------+---------------------+-----------------------------------------------------+
+| Prof.               | Website             | Courses                                             |
++=====================+=====================+=====================================================+
+| `_Justin Johnsons`_ | JJ_Profile_         | `Deep Learning for Computer Vision`_                |
+|                     |                     |                                                     |
+|                     |                     | `Computer Vision`_                                  |
++---------------------+---------------------+-----------------------------------------------------+
 
-.. _JJ_Profile:                                       https://web.eecs.umich.edu/~justincj/
+.. _Justin Johnsons:                                  https://web.eecs.umich.edu/~justincj/
 .. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
 .. _Computer Vision:                                  https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
 
