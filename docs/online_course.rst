@@ -63,7 +63,7 @@ Massachusetts Institute of Technology (MIT)
 
 .. _Arvind Mithal:                                     https://www.csail.mit.edu/person/arvind-mithal
 .. _CSG:                                               http://csg.csail.mit.edu/
-.. _Daniel Sanchez:                                    https://www.csail.mit.edu/person/sanchez
+.. _Daniel Sanchez:                                    https://www.csail.mit.edu/person/daniel-sanchez
 .. _Profile2:                                          http://people.csail.mit.edu/sanchez/
 .. _Profile3:                                          https://www.csail.mit.edu/person/julian-shun
 .. _Profile4:                                          http://people.csail.mit.edu/emer/
