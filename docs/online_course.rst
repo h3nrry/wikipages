@@ -26,7 +26,7 @@ Massachusetts Institute of Technology (MIT)
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| `Arvind Mithal`_ | CSG                 | `Constructive Computer Architecture`_               |
+| `Arvind Mithal`_ | CSG_                | `Constructive Computer Architecture`_               |
 |                  |                     |                                                     |
 |                  |                     | `Complex Digital System`_                           |
 +------------------+---------------------+-----------------------------------------------------+
