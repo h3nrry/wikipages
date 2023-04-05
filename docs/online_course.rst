@@ -91,12 +91,13 @@ Michigan
 +---------------------+---------------------+-----------------------------------------------------+
 | Prof.               | Website             | Courses                                             |
 +=====================+=====================+=====================================================+
-| `Justin Johnsons`_  |                     | `Deep Learning for Computer Vision`_                |
+| `Justin Johnsons`_  | `JJ Github`_        | `Deep Learning for Computer Vision`_                |
 |                     |                     |                                                     |
 |                     |                     | `Computer Vision`_                                  |
 +---------------------+---------------------+-----------------------------------------------------+
 
 .. _Justin Johnsons:                                  https://web.eecs.umich.edu/~justincj/
+.. _JJ Github:                                        https://github.com/jcjohnson
 .. _Deep Learning for Computer Vision:                https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
 .. _Computer Vision:                                  https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
 
@@ -177,17 +178,15 @@ Stanford
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| Fei Fei Li       | FF_Profile_         | `Deep Learning for Computer Vision2`_               |
+| `Fei Fei Li`_    | SVL_                | `Deep Learning for Computer Vision2`_               |
 |                  |                     |                                                     |
-|                  | SVL_                |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
-| Serena Young     | SY_Profile_         | `Artificial Intelligence in Healthcare`_            |
+| `Serena Young`_  | MARVL_              | `Artificial Intelligence in Healthcare`_            |
 |                  |                     |                                                     |
-|                  | MARVL_              |                                                     |
 +------------------+---------------------+-----------------------------------------------------+
 
-.. _FF_Profile:                                       https://profiles.stanford.edu/fei-fei-li/
-.. _SY_Profile:                                       https://ai.stanford.edu/~syyeung/
+.. _Fei Fei Li:                                       https://profiles.stanford.edu/fei-fei-li/
+.. _Serena Young:                                     https://ai.stanford.edu/~syyeung/
 .. _SVL:                                              https://svl.stanford.edu/
 .. _MARVL:                                            https://marvl.stanford.edu/
 .. _Deep Learning for Computer Vision2:               http://cs231n.stanford.edu/
