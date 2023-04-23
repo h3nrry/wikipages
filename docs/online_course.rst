@@ -35,6 +35,9 @@ Berkeley
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | `Sophia Shao`_   |                     | `Computer Architecture and Engineering`_   | `CS152 2023 Spring`_  |
 |                  |                     |                                            |                       |
+|                  |                     +--------------------------------------------+-----------------------+
+|                  |                     | `Intro to Digital Design and ICs`_         | `CS151 2023 Spring`_  |
+|                  |                     |                                            |                       |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
@@ -60,6 +63,8 @@ Berkeley
 .. _CS152 2010 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp10/
 .. _CS152 2009 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp09/
 .. _CS152 2008 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp08/
+.. _Intro to Digital Design and ICs:                   https://inst.eecs.berkeley.edu/~eecs151/archives.html
+.. _CS151 2023 Spring:                                 https://inst.eecs.berkeley.edu/~cs151/sp23/
 
 
 ETH Zurich
