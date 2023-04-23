@@ -25,6 +25,9 @@ Berkeley
 .. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
 .. _Computer Architecture and Engineering:             https://inst.eecs.berkeley.edu/~cs152/archives.html
 .. _CS152 2021 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp21/
+.. _CS152 2020 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp20/
+.. _CS152 2019 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp19/
+.. _CS152 2018 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp18/
 
 
 ETH Zurich
