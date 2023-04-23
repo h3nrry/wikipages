@@ -115,7 +115,7 @@ Berkeley
 .. _CS61C 2023 Spring:                                 https://cs61c.org/sp23/
 .. _CS61C 2022 Spring:                                 https://cs61c.org/sp22/
 .. _EE 2023 Spring:                                    https://www2.eecs.berkeley.edu/Scheduling/EE/schedule.html?_ga=2.114090759.1648706236.1682244487-891033239.1682143795
-
+.. _Advanced Digital Circuits and Systems:             https://inst.eecs.berkeley.edu/~eecs251b/archives.html
 
 ETH Zurich
 ----------
