@@ -62,6 +62,10 @@ Berkeley
 |                     |                     |                                            |                       |
 |                     |                     |                                            | `EE290 2020 Spring`_  |
 +---------------------+---------------------+--------------------------------------------+-----------------------+
+| Misc                |                     | `Machine Structures`_                      | `CS61C 2023 Spring`_  |
+|                     |                     |                                            |                       |
+|                     |                     |                                            | `CS61C 2022 Spring`_  |
++---------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _Borivoje Nikolic:                                  https://www2.eecs.berkeley.edu/Faculty/Homepages/nikolic.html
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
@@ -100,6 +104,10 @@ Berkeley
 .. _Hardware for Machine Learning:                     https://inst.eecs.berkeley.edu//~ee290-2/archives.html
 .. _EE290 2021 Spring:                                 https://inst.eecs.berkeley.edu//~ee290-2/sp21
 .. _EE290 2020 Spring:                                 https://inst.eecs.berkeley.edu//~ee290-2/sp20
+.. _Machine Structures:                                https://inst.eecs.berkeley.edu/~cs61c/archives.html
+.. _CS61C 2023 Spring:                                 https://cs61c.org/sp23/
+.. _CS61C 2022 Spring:                                 https://cs61c.org/sp22/
+
 
 ETH Zurich
 ----------
