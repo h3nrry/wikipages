@@ -9,13 +9,14 @@ Berkeley
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| `Krste Asanovic`_| SAFARI_             | `Digital Design & Computer Architecture`_           |
+| `Krste Asanovic`_| SLICE_              | `Digital Design & Computer Architecture`_           |
 |                  |                     |                                                     |
-|                  |                     | `Computer Architecture`_                            |
+|                  | BWRC_               | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
-
+.. _SLICE:                                             https://slice.eecs.berkeley.edu/
+.. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
 
 ETH Zurich
 ----------
