@@ -42,7 +42,7 @@ Berkeley
 .. _CS152 2012 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp12/
 .. _CS152 2011 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp11/
 .. _CS152 2010 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp10/
-.. _CS152 2010 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp09/
+.. _CS152 2009 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp09/
 
 
 ETH Zurich
