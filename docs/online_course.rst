@@ -38,6 +38,8 @@ Berkeley
 |                  |                     +--------------------------------------------+-----------------------+
 |                  |                     | `Intro to Digital Design and ICs`_         | `CS151 2023 Spring`_  |
 |                  |                     |                                            |                       |
+|                  |                     |                                            | `CS151 2022 Spring`_  |
+|                  |                     |                                            |                       |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
@@ -65,6 +67,7 @@ Berkeley
 .. _CS152 2008 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp08/
 .. _Intro to Digital Design and ICs:                   https://inst.eecs.berkeley.edu/~eecs151/archives.html
 .. _CS151 2023 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp23/
+.. _CS151 2022 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp22/
 
 
 ETH Zurich
