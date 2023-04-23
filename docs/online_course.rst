@@ -9,7 +9,7 @@ Berkeley
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | Prof.            | Website             | Courses                                                            |
 +==================+=====================+============================================+=======================+
-| `John Wawrzynek`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
+| `John Wawrzynek`_| BWRC_               | `Computer Architecture and Engineering`_   | `CS152 2022 Spring`_  |
 |                  |                     |                                            |                       |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | `Krste Asanovic`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
@@ -41,6 +41,7 @@ Berkeley
 .. _RISCV:                                             https://riscv.org/
 .. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
 .. _Computer Architecture and Engineering:             https://inst.eecs.berkeley.edu/~cs152/archives.html
+.. _CS152 2022 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp22/
 .. _CS152 2021 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp21/
 .. _CS152 2020 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp20/
 .. _CS152 2019 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp19/
