@@ -64,7 +64,7 @@ Berkeley
 .. _CS152 2009 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp09/
 .. _CS152 2008 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp08/
 .. _Intro to Digital Design and ICs:                   https://inst.eecs.berkeley.edu/~eecs151/archives.html
-.. _CS151 2023 Spring:                                 https://inst.eecs.berkeley.edu/~cs151/sp23/
+.. _CS151 2023 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp23/
 
 
 ETH Zurich
