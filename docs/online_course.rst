@@ -20,6 +20,8 @@ Berkeley
 |                  |                     |                                            | `CS152 2013 Spring`_  |
 |                  |                     |                                            |                       |
 |                  |                     |                                            | `CS152 2012 Spring`_  |
+|                  |                     |                                            |                       |
+|                  |                     |                                            | `CS152 2011 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
@@ -34,6 +36,7 @@ Berkeley
 .. _CS152 2018 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp18/
 .. _CS152 2013 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp13/
 .. _CS152 2012 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp12/
+.. _CS152 2011 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp11/
 
 
 ETH Zurich
