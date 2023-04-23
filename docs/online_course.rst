@@ -62,7 +62,7 @@ Berkeley
 |                        |                     |                                            |                       |
 |                        |                     |                                            | `EE290 2020 Spring`_  |
 +------------------------+---------------------+--------------------------------------------+-----------------------+
-| `Vladimir Stojanovic`_ |                     | `Advanced Digital Circuits and Systems`_   | `CS152 2023 Spring`_  |
+| `Vladimir Stojanovic`_ | BDD_                | `Advanced Digital Circuits and Systems`_   | `CS152 2023 Spring`_  |
 |                        |                     |                                            |                       |
 +------------------------+---------------------+--------------------------------------------+-----------------------+
 | Misc                   |                     | `Machine Structures`_                      | `CS61C 2023 Spring`_  |
@@ -82,8 +82,8 @@ Berkeley
 .. _RISCV:                                             https://riscv.org/
 .. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
 .. _Sophia Shao:                                       https://people.eecs.berkeley.edu/~ysshao/index.html
-.. _Vladimir Stojanovic:                               https://people.eecs.berkeley.edu/~ysshao/index.html
-.. _CONIX:                                             https://conix.io/
+.. _Vladimir Stojanovic:                               https://www2.eecs.berkeley.edu/Faculty/Homepages/vlada.html
+.. _BDD:                                               https://deepdrive.berkeley.edu/
 .. _Computer Architecture and Engineering:             https://inst.eecs.berkeley.edu/~cs152/archives.html
 .. _CS152 2023 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp23/
 .. _CS152 2022 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp22/
