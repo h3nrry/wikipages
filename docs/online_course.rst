@@ -11,7 +11,7 @@ Berkeley
 +==================+=====================+============================================+=======================+
 | `John Wawrzynek`_| BWRC_               | `Computer Architecture and Engineering`_   | `CS152 2022 Spring`_  |
 |                  |                     |                                            |                       |
-|                  | CONIX_              |                                            | `CS152 2020 Spring`_  |
+|                  | CONIX_              |                                            | `CS152 2016 Fall`_    |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | `Krste Asanovic`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
 |                  |                     |                                            |                       |
@@ -48,6 +48,7 @@ Berkeley
 .. _CS152 2020 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp20/
 .. _CS152 2019 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp19/
 .. _CS152 2018 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp18/
+.. _CS152 2016 Fall:                                   https://inst.eecs.berkeley.edu/~cs152/fall13/
 .. _CS152 2013 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp13/
 .. _CS152 2012 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp12/
 .. _CS152 2011 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp11/
