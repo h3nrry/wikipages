@@ -14,12 +14,14 @@ Berkeley
 |                  | BWRC_               | `Computer Architecture`_                            |
 |                  |                     |                                                     |
 |                  | RISCV_              | `Computer Architecture`_                            |
+|                  |                     |                                                     |
+|                  | ARC_                | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
 .. _SLICE:                                             https://slice.eecs.berkeley.edu/
 .. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
-.. _RISCV:                                             https://riscv.org/
+.. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
 
 ETH Zurich
 ----------
