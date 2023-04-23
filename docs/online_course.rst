@@ -95,7 +95,7 @@ Berkeley
 .. _CS151 2019 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp19/
 .. _CS151 2019 Fall:                                   https://inst.eecs.berkeley.edu/~eecs151/fa19/
 .. _CS151 2018 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp18/
-.. _Intro to Digital Design and ICs:                   https://inst.eecs.berkeley.edu//~ee290-2/archives.html
+.. _Hardware for Machine Learning:                     https://inst.eecs.berkeley.edu//~ee290-2/archives.html
 .. _EE290 2021 Spring:                                 https://inst.eecs.berkeley.edu//~ee290-2/sp21
 
 ETH Zurich
