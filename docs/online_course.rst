@@ -16,6 +16,8 @@ Berkeley
 |                  |                     | `Intro to Digital Design and ICs`_         | `CS151 2021 Spring`_  |
 |                  |                     |                                            |                       |
 |                  |                     |                                            | `CS151 2020 Spring`_  |
+|                  |                     |                                            |                       |
+|                  |                     |                                            | `CS151 2019 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | `Krste Asanovic`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
 |                  |                     |                                            |                       |
@@ -80,6 +82,7 @@ Berkeley
 .. _CS151 2021 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp21/
 .. _CS151 2020 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp20/
 .. _CS151 2020 Fall:                                   https://inst.eecs.berkeley.edu/~eecs151/fa20/
+.. _CS151 2019 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp19/
 
 
 ETH Zurich
