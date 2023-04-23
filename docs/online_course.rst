@@ -12,11 +12,14 @@ Berkeley
 | `Krste Asanovic`_| SLICE_              | `Digital Design & Computer Architecture`_           |
 |                  |                     |                                                     |
 |                  | BWRC_               | `Computer Architecture`_                            |
+|                  |                     |                                                     |
+|                  | RISCV_              | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
 .. _SLICE:                                             https://slice.eecs.berkeley.edu/
 .. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
+.. _RISCV:                                             https://riscv.org/
 
 ETH Zurich
 ----------
