@@ -64,6 +64,7 @@ Berkeley
 +------------------------+---------------------+--------------------------------------------+--------------------------+
 | `Vladimir Stojanovic`_ | BDD_                | `Advanced Digital Circuits and Systems`_   | `EECS251B 2023 Spring`_  |
 |                        |                     |                                            |                          |
+|                        |                     |                                            | `EECS251B 2022 Spring`_  |
 +------------------------+---------------------+--------------------------------------------+--------------------------+
 | Misc                   |                     | `Machine Structures`_                      | `CS61C 2023 Spring`_     |
 |                        |                     |                                            |                          |
@@ -117,6 +118,7 @@ Berkeley
 .. _EE 2023 Spring:                                    https://www2.eecs.berkeley.edu/Scheduling/EE/schedule.html?_ga=2.114090759.1648706236.1682244487-891033239.1682143795
 .. _Advanced Digital Circuits and Systems:             https://inst.eecs.berkeley.edu/~eecs251b/archives.html
 .. _EECS251B 2023 Spring:                              https://inst.eecs.berkeley.edu/~eecs251b/sp23/
+.. _EECS251B 2022 Spring:                              https://inst.eecs.berkeley.edu/~eecs251b/sp22/
 
 
 ETH Zurich
