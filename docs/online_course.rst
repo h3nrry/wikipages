@@ -33,7 +33,9 @@ Berkeley
 |                  |                     |                                            |                       |
 |                  |                     |                                            | `CS152 2008 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
-
+| `Sophia Shao`_   | BWRC_               | `Computer Architecture and Engineering`_   | `CS152 2022 Spring`_  |
+|                  |                     |                                            |                       |
++------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
 .. _CONIX:                                             https://conix.io/
@@ -42,6 +44,8 @@ Berkeley
 .. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
 .. _RISCV:                                             https://riscv.org/
 .. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
+.. _Sophia Shao:                                       https://people.eecs.berkeley.edu/~ysshao/index.html
+.. _CONIX:                                             https://conix.io/
 .. _Computer Architecture and Engineering:             https://inst.eecs.berkeley.edu/~cs152/archives.html
 .. _CS152 2022 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp22/
 .. _CS152 2021 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp21/
