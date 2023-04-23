@@ -9,10 +9,12 @@ Berkeley
 +------------------+---------------------+-----------------------------------------------------+
 | Prof.            | Website             | Courses                                             |
 +==================+=====================+=====================================================+
-| `Onur Mutlu`_    | SAFARI_             | `Digital Design & Computer Architecture`_           |
+| `Krste Asanovic`_| SAFARI_             | `Digital Design & Computer Architecture`_           |
 |                  |                     |                                                     |
 |                  |                     | `Computer Architecture`_                            |
 +------------------+---------------------+-----------------------------------------------------+
+
+.. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
 
 
 ETH Zurich
