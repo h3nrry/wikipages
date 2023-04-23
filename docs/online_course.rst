@@ -65,6 +65,8 @@ Berkeley
 | Misc                |                     | `Machine Structures`_                      | `CS61C 2023 Spring`_  |
 |                     |                     |                                            |                       |
 |                     |                     |                                            | `CS61C 2022 Spring`_  |
+|                     |                     |--------------------------------------------+-----------------------+
+|                     |                     | EE Class Schedules                         | `EE 2023 Spring`_     |
 +---------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _Borivoje Nikolic:                                  https://www2.eecs.berkeley.edu/Faculty/Homepages/nikolic.html
@@ -107,6 +109,7 @@ Berkeley
 .. _Machine Structures:                                https://inst.eecs.berkeley.edu/~cs61c/archives.html
 .. _CS61C 2023 Spring:                                 https://cs61c.org/sp23/
 .. _CS61C 2022 Spring:                                 https://cs61c.org/sp22/
+.. _EE 2023 Spring:                                    https://www2.eecs.berkeley.edu/Scheduling/EE/schedule.html?_ga=2.114090759.1648706236.1682244487-891033239.1682143795
 
 
 ETH Zurich
