@@ -11,6 +11,7 @@ Berkeley
 +==================+=====================+============================================+=======================+
 | `John Wawrzynek`_| BWRC_               | `Computer Architecture and Engineering`_   | `CS152 2022 Spring`_  |
 |                  |                     |                                            |                       |
+|                  | CONIX_              |                                            | `CS152 2020 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 | `Krste Asanovic`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
 |                  |                     |                                            |                       |
@@ -35,6 +36,7 @@ Berkeley
 
 
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
+.. _CONIX:                                             https://conix.io/
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
 .. _SLICE:                                             https://slice.eecs.berkeley.edu/
 .. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
