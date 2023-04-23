@@ -59,6 +59,7 @@ Berkeley
 |                     |                     |                                            |                       |
 +---------------------+---------------------+--------------------------------------------+-----------------------+
 
+.. _Borivoje Nikolic:                                  https://www2.eecs.berkeley.edu/Faculty/Homepages/nikolic.html
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
 .. _CONIX:                                             https://conix.io/
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
