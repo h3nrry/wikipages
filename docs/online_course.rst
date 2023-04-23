@@ -11,11 +11,11 @@ Berkeley
 +==================+=====================+============================================+=======================+
 | `Krste Asanovic`_| SLICE_              | `Computer Architecture and Engineering`_   | `CS152 2021 Spring`_  |
 |                  |                     |                                            |                       |
-|                  | BWRC_               |                                            |                       |
+|                  | BWRC_               |                                            | `CS152 2020 Spring`_  |
 |                  |                     |                                            |                       |
-|                  | RISCV_              |                                            |                       |
+|                  | RISCV_              |                                            | `CS152 2019 Spring`_  |
 |                  |                     |                                            |                       |
-|                  | ARC_                |                                            |                       |
+|                  | ARC_                |                                            | `CS152 2018 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
