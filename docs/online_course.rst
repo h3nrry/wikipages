@@ -16,6 +16,8 @@ Berkeley
 |                  | RISCV_              |                                            | `CS152 2019 Spring`_  |
 |                  |                     |                                            |                       |
 |                  | ARC_                |                                            | `CS152 2018 Spring`_  |
+|                  |                     |                                            |                       |
+|                  |                     |                                            | `CS152 2013 Spring`_  |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
@@ -28,6 +30,7 @@ Berkeley
 .. _CS152 2020 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp20/
 .. _CS152 2019 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp19/
 .. _CS152 2018 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp18/
+.. _CS152 2013 Spring:                                 https://inst.eecs.berkeley.edu/~cs152/sp13/
 
 
 ETH Zurich
