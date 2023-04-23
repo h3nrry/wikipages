@@ -9,7 +9,7 @@ Berkeley
 +---------------------+---------------------+--------------------------------------------+-----------------------+
 | Prof.               | Website             | Courses                                                            |
 +=====================+=====================+============================================+=======================+
-| `Borivoje Nikolic`_ | BWRC_               | `Intro to Digital Design and ICs`_         | `CS152 2019 Fall`_  |
+| `Borivoje Nikolic`_ | BWRC_               | `Intro to Digital Design and ICs`_         | `CS152 2019 Fall`_    |
 |                     |                     |                                            |                       |
 +---------------------+---------------------+--------------------------------------------+-----------------------+
 | `John Wawrzynek`_   | BWRC_               | `Computer Architecture and Engineering`_   | `CS152 2022 Spring`_  |
