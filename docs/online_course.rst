@@ -21,6 +21,7 @@ Berkeley
 .. _Krste Asanovic:                                    https://people.eecs.berkeley.edu/~krste/
 .. _SLICE:                                             https://slice.eecs.berkeley.edu/
 .. _BWRC:                                              https://bwrc.eecs.berkeley.edu/
+.. _RISCV:                                             https://riscv.org/
 .. _ARC:                                               https://www2.eecs.berkeley.edu/Research/Areas/ARC/
 .. _Computer Architecture and Engineering:             https://inst.eecs.berkeley.edu/~cs152/sp21/
 
