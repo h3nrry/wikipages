@@ -46,6 +46,8 @@ Berkeley
 |                  |                     |                                            |                       |
 |                  |                     |                                            | `CS151 2022 Fall`_    |
 |                  |                     |                                            |                       |
+|                  |                     |                                            | `CS151 2020 Fall`_    |
+|                  |                     |                                            |                       |
 +------------------+---------------------+--------------------------------------------+-----------------------+
 
 .. _John Wawrzynek:                                    https://people.eecs.berkeley.edu/~johnw/
@@ -77,6 +79,7 @@ Berkeley
 .. _CS151 2022 Fall:                                   https://inst.eecs.berkeley.edu/~eecs151/fa22/
 .. _CS151 2021 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp21/
 .. _CS151 2020 Spring:                                 https://inst.eecs.berkeley.edu/~eecs151/sp20/
+.. _CS151 2020 Fall:                                   https://inst.eecs.berkeley.edu/~eecs151/fa20/
 
 
 ETH Zurich
