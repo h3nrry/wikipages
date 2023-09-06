@@ -17,5 +17,6 @@ This is Henrry collection information wikisites
    :maxdepth: 2
    :hidden:
 
+   my_projects
    online_course
 
