@@ -13,7 +13,7 @@ This is Henrry collection information wikisites
 .. Hidden TOCs
 
 .. toctree::
-   :caption: My References
+   :caption: My_References
    :maxdepth: 2
    :hidden:
 
